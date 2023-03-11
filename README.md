@@ -1,11 +1,13 @@
 # Instacart-Python_Project
 
-Instacart is a real online grocery store, which operates through an app. 
+Instacart is a real online grocery store, which operates through website and an app. 
 This project was handled by using Python as part of the Data Analytics Course at CareerFoundry.
 
 ## Introduction 
 
 [Instacart](www.instacart.com), a tech company that operates as a same-day-grocery-pick-up-and-delivery service in the U.S. and Canada.
+The service allows customers to order groceries from participating retailers with the shopping being done by a personal shopper.
+Facts: Founded in 2012,  500 million products, 40.000 stores,  5.500+ cities 
 
 
 ## Objectives

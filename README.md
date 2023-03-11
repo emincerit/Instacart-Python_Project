@@ -1,7 +1,5 @@
 # Instacart-Python_Project
 
-![Instacart](https://www.bing.com/images/search?view=detailV2&ccid=KhkH%2b7bL&id=B54CAF47FF302BDCAD58783AA5219A9C65D5F3C8&thid=OIP.KhkH-7bLKvvzWYh4XHmDvQHaBn&mediaurl=https%3a%2f%2flogos-download.com%2fwp-content%2fuploads%2f2016%2f10%2fInstacart_logo.png&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.2a1907fbb6cb2afbf35988785c7983bd%3frik%3dyPPVZZyaIaU6eA%26pid%3dImgRaw%26r%3d0&exph=1100&expw=5050&q=Instacart+Logo+PNG&simid=608006415849039548&FORM=IRPRST&ck=D2297140617CE6744A5C7199D20CD7EA&selectedIndex=0&idpp=overlayview&ajaxhist=0&ajaxserp=0)
-
 Instacart is a real online grocery store, which operates through website and an app. 
 This project was handled by using Python as part of the Data Analytics Course at CareerFoundry.
 

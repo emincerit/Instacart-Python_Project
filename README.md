@@ -7,7 +7,7 @@ This project was handled by using Python as part of the Data Analytics Course at
 
 [Instacart](www.instacart.com), a tech company founded in 2012 that operates as a same-day-grocery-pick-up-and-delivery service in the U.S. and Canada.
 The service allows customers to order groceries from participating retailers with the shopping being done by a personal shopper.
-Facts: 500 million products, 40.000 stores, 5.500+ cities 
+Facts: 500 million products, 40.000 stores, 5.500+ cities.
 
 
 ## Objectives

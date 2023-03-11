@@ -15,10 +15,15 @@ segmentation based on the provided criteria.
 
 ## Key Questions
 
-- The sales team needs to know what the busiest days of the week and hours of the day.
+- The sales team needs to know what the busiest days of the week and hours of the day are.
 - They also want to know whether there are particular times of the day when people spend
   the most money, as this might inform the type of products they advertise at these times.
 - Are there certain types of products that are more popular than others?
 - The marketing and sales teams are particularly interested in the different types of
   customers in their system and how their ordering behaviors differ.
+  
+## Data
+
+Open-source data sets (year 2017) from Instacart [Download Link](https://www.instacart.com/datasets/grocery-shopping-2017)
+
   

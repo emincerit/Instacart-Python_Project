@@ -1,5 +1,8 @@
 # Instacart-Python_Project
 
+!(04 Analysis/Visualizations/Instacart - Logo.png)
+
+
 Instacart is a real online grocery store, which operates through website and an app. 
 This project was handled by using Python as part of the Data Analytics Course at CareerFoundry.
 

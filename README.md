@@ -1,9 +1,11 @@
 # Instacart-Python_Project
 
-Instacart is an existing online grocery store in the U.S.A., which operates through an app. 
+Instacart is a real online grocery store, which operates through an app. 
 This project was handled by using Python as part of the Data Analytics Course at CareerFoundry.
 
 ## Introduction 
+
+[Instacart](www.instacart.com), a tech company that operates as a same-day-grocery-pick-up-and-delivery service in the U.S. and Canada.
 
 
 ## Objectives
@@ -24,6 +26,7 @@ segmentation based on the provided criteria.
   
 ## Data
 
-Open-source data sets (year 2017) from Instacart [Download Link](https://www.instacart.com/datasets/grocery-shopping-2017)
-
+- Open-source data sets (year 2017) from Instacart [Download Link](https://www.instacart.com/datasets/grocery-shopping-2017)
+- Customer Data Set
   
+
